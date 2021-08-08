@@ -1,0 +1,15 @@
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\bin\Debug\net5.0\NavTechAssesment.DataAccess.deps.json
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\bin\Debug\net5.0\NavTechAssesment.DataAccess.dll
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\bin\Debug\net5.0\ref\NavTechAssesment.DataAccess.dll
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\bin\Debug\net5.0\NavTechAssesment.DataAccess.pdb
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\obj\Debug\net5.0\NavTechAssesment.DataAccess.csprojAssemblyReference.cache
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\obj\Debug\net5.0\NavTechAssesment.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\obj\Debug\net5.0\NavTechAssesment.DataAccess.AssemblyInfoInputs.cache
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\obj\Debug\net5.0\NavTechAssesment.DataAccess.AssemblyInfo.cs
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\obj\Debug\net5.0\NavTechAssesment.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\obj\Debug\net5.0\NavTechAssesment.DataAccess.dll
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\obj\Debug\net5.0\ref\NavTechAssesment.DataAccess.dll
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\obj\Debug\net5.0\NavTechAssesment.DataAccess.pdb
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\bin\Debug\net5.0\NavTechAssesment.DataAccess.runtimeconfig.json
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\bin\Debug\net5.0\NavTechAssesment.DataAccess.runtimeconfig.dev.json
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesmentDataAccess\obj\Debug\net5.0\NavTechAssesment.DataAccess.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\bin\Debug\net5.0\NavTechAssesment.Domain.deps.json
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\bin\Debug\net5.0\NavTechAssesment.Domain.dll
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\bin\Debug\net5.0\ref\NavTechAssesment.Domain.dll
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\bin\Debug\net5.0\NavTechAssesment.Domain.pdb
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\bin\Debug\net5.0\NavTechAssesment.DataAccess.dll
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\bin\Debug\net5.0\NavTechAssesment.DataAccess.pdb
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\obj\Debug\net5.0\NavTechAssesment.Domain.csprojAssemblyReference.cache
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\obj\Debug\net5.0\NavTechAssesment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\obj\Debug\net5.0\NavTechAssesment.Domain.AssemblyInfoInputs.cache
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\obj\Debug\net5.0\NavTechAssesment.Domain.AssemblyInfo.cs
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\obj\Debug\net5.0\NavTechAssesment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\obj\Debug\net5.0\NavTechAssesment.Domain.csproj.CopyComplete
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\obj\Debug\net5.0\NavTechAssesment.Domain.dll
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\obj\Debug\net5.0\ref\NavTechAssesment.Domain.dll
+C:\Users\pbanerjee\Downloads\Docs and Files\OLD LAPTOP DATA\NavTechAssessment\NavTechAssesment.Domain\obj\Debug\net5.0\NavTechAssesment.Domain.pdb
